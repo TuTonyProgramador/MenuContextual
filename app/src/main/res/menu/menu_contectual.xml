@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/descargar_imagen"
+        android:title="Descargar Imagen" />
+    <item
+        android:id="@+id/compartir_imagen"
+        android:title="Compartir Imagen" />
+    <item
+        android:id="@+id/copiar_imagen"
+        android:title="Copiar Imagen" />
+</menu>
